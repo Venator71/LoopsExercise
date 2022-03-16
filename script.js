@@ -62,13 +62,13 @@ const quote = [
 
 // 6b
 
-// let hagridQuote = quote.join(" ");
-// console.log(hagridQuote);
+let hagridQuote = quote.join(" ");
+console.log(hagridQuote);
 
 
-// for (all = 0, all <= 0; all++){
-//     console.log(quote.join(' '));
-// }
+for (all = 0; all <= 0; all++) {
+    console.log(quote.join(' '));
+}
 
 
 
